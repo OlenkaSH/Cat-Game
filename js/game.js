@@ -14,7 +14,7 @@ class Game {
   preload() {
     this.backgroundImage = loadImage("assets/background.jpeg");
 
-    this.playerImage = loadImage("assets/cat.png");
+    this.playerImage = loadImage("assets/snake1.png");
     this.mouseImage = loadImage("assets/obstacle.png");
   }
 
